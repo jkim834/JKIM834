@@ -38,10 +38,12 @@
 \section{The Practice Exam}
 \section{Conclusion}
 
-'''
+```
+
 if bowl is empty:
     add cereal
 if bowl has only cereal in it:
     add milk
-'''
+    
+```
 
