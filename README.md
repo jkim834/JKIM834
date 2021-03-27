@@ -5,7 +5,7 @@
 ## GitHub Formatting
 
 GitHub Document
-[here]{https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github}
+[here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 ## Canadian Aviation Regulations
 
