@@ -3,18 +3,28 @@
 👋🔭🌱👯🤔💬📫😄⚡
 
 ## GitHub Formatting
+
+GitHub Document
 [here]{https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github}
 
 ## Canadian Aviation Regulations
+
+Aviation Rule
 [here](https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433)
 
 ## BC Drone Certificate
+
+Drone License
 [here](https://tc.canada.ca/en/aviation/drone-safety/getting-drone-pilot-certificate)
 
 ## TP15263 - Knowledge Requirements for Pilots
+
+Documentation
 [here](https://tc.canada.ca/en/aviation/publications/knowledge-requirements-pilots-remotely-piloted-aircraft-systems-250-g-including-25-kg-operating-within-visual-line-sight-vlos-tp-15263)
 
 ## Coastal Drone
+
+Drone Practice
 [here](https://coastal-drone-academy.thinkific.com/enrollments/)
 
 \section{Introduction}
