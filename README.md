@@ -6,7 +6,7 @@
 
 Have you previously seen probability notation?
 Have you ever seen the basic rule of probability?
-For reference, we review those here.
+For the reference, we review those here.
 
 Probabilities are defined for events. An event is some outcome that
 we could potentially observe or experience, such as
@@ -27,8 +27,7 @@ ${P}({X=4}) = {1}/{6}$.
 In the careful dice observation, probabilty must be:
 {0}, Between, and {2}.
 
-The Red Dice Theorem
-Probability must result between {0} and {2}.
+The Red Dice Theorem must result between {0} and {2}.
 
 ## GitHub Formatting
 
