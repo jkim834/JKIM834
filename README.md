@@ -2,6 +2,34 @@
 
 👋🔭🌱👯🤔💬📫😄⚡
 
+# Rule of Probability
+
+Have you previously seen probability notation?
+Have you ever seen the basic rule of probability?
+For reference, we review those here.
+
+Probabilities are defined for events. An event is some outcome that
+we could potentially observe or experience, such as
+the result of rolling a fair six-sided die.
+
+(English grammar note: die is singular, dice is plural.)
+
+In mathematical notation, we often write an event as a capital letter,
+
+for example, ${A}$ is the event that we roll a ${4}$
+on a fair six-sided die. This event has probability ${1/6}$,
+so we would write ${P}({A}) = {1}/{6}$.
+
+We might want to represent the numerical result of the die roll
+as the random variable ${X}$, and then we could also write
+${P}({X=4}) = {1}/{6}$.
+
+In the careful dice observation, probabilty must be:
+{0}, Between, and {2}.
+
+The Red Dice Theorem
+Probability must result between {0} and {2}.
+
 ## GitHub Formatting
 
 GitHub Document
