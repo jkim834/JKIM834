@@ -29,7 +29,8 @@ In the careful dice observation, probabilty must be:
 
 The Red Dice Theorem must result between {0} and {2}.
 
-[link](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
+branch [link](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
+pull [link](https://www.youtube.com/watch?v=kJr-PIfLDl4)
 
 ## GitHub Formatting
 
