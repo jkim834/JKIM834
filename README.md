@@ -1,4 +1,19 @@
-# Welcome 
+# Welcome GitHub
+
+l have seen Git or GitHub before <br />
+I can use basic functions like branching, committing changes, and merging with other repositories. <br />
+I can use more advanced functions designed for collaborating with others and managing changes to source code. <br />
+I use Git and GitHub regularly in my day to day work. <br />
+
+l have seen this language before.
+
+I am learning the basics like variables, conditionals, arithmetic, basic syntax, and string manipulation.
+
+I can read other peoples code. I can find and fix simple bugs.
+
+I can break down problems and prepared to reuse existing code, while implementing new functions/classes of my own and specialized libraries. I can trace the execution of most programs with ease.
+
+I can manufacture lean, well structured code to solve complex problems utilizing the full extent of the language's feature set.
 
 👋🔭🌱👯🤔💬📫😄⚡
 
