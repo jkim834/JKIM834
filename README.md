@@ -1,6 +1,6 @@
-# Welcome GitHub
+# Welcome to GitHub
 
-l have seen Git or GitHub before <br />
+I have seen Git or GitHub before. <br />
 I can use basic functions like branching, committing changes, and merging with other repositories. <br />
 I can use more advanced functions designed for collaborating with others and managing changes to source code. <br />
 I use Git and GitHub regularly in my day to day work. <br />
@@ -16,6 +16,7 @@ I can break down problems and prepared to reuse existing code, while implementin
 I can manufacture lean, well structured code to solve complex problems utilizing the full extent of the language's feature set.
 
 👋🔭🌱👯🤔💬📫😄⚡
+
 
 # Rule of Probability
 
