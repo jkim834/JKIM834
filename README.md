@@ -1,4 +1,4 @@
-# HoHoGrace's FoodSafety
+# John Kim
 
 Why Foodsafety?
 
@@ -6,7 +6,7 @@ Why Foodsafety?
 
 # Interview
 *Click here to*
-[Reveal Slides](https://hohograce.github.io/FoodSafety/)
+Reveal Slides
 
 Also, check out open source project
 
