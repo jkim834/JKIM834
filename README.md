@@ -1,16 +1,22 @@
 # John Kim
 
-Why Foodsafety?
+Why Airport Operations?
 
-- To pursue the wellness of everyone and complete the BC FoodSafety program.
+- To pursue the wellness of everyone and complete the BCIT program.
 
 # Interview
 *Click here to*
 Reveal Slides
+<br />
+AOM <br />
+SMS <br />
+EMS <br />
+CARs <br />
+TP312E <br />
 
-Also, check out open source project
+Also, check out open source project <br />
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+![issue tab](https://lab.github.com/public/images/issue_tab.png) <br />
 
 [reveal.js](https://github.com/hakimel/reveal.js/)
 
