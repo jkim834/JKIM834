@@ -5,7 +5,7 @@ Why Airport Operations?
 - To pursue the wellness of everyone and complete the BCIT program.
 
 # Interview
-*Click here to*
+[Click here to](https://jkim834.github.io/JKIM834/)
 Reveal Slides
 <br />
 <br />
